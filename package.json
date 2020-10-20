@@ -1,0 +1,13 @@
+{
+  "name": "kushjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Samuel Rowe",
+  "license": "MIT",
+  "dependencies": {
+    "antlr4": "^4.8.0"
+  },
+  "scripts": {
+  	"start": "node source/index.js"
+  }
+}
